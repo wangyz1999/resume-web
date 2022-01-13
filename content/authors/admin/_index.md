@@ -21,7 +21,7 @@ interests:
 - Artificial Intelligence
 - Natural Language Processing
 - Robot-Human Interaction
-- Brain–Computer Interface
+- Brain-Computer Interface
 
 # Education to show in About widget
 education:
