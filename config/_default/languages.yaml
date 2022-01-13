@@ -9,14 +9,31 @@ en:
   #contentDir: content/en
 
 # Uncomment the lines below to configure your website in a second language.
-#zh:
-#  languageCode: zh-Hans
-#  contentDir: content/zh
-#  title: Chinese website title...
-#  params:
-#    description: Site description in Chinese...
-#  menu:
-#    main:
-#      - name: 传
-#        url: '#about'
-#        weight: 1
+zh:
+ languageCode: zh-Hans
+ contentDir: content/zh
+ title: 蕴哲的个人网站
+ params:
+   description: Site description in Chinese...
+ menu:
+  - name: 关于
+    url: '#about'
+    weight: 10
+  - name: 经历
+    url: '#experience'
+    weight: 20
+  - name: 论文
+    url: '#publications'
+    weight: 30
+  - name: 项目
+    url: '#projects'
+    weight: 40
+  - name: 文章
+    url: '#posts'
+    weight: 50
+  # - name: Talks
+  #   url: '#talks'
+  #   weight: 40
+  - name: 联系
+    url: '#contact'
+    weight: 60
