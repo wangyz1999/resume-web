@@ -27,7 +27,7 @@ experience:
     company_url: 'https://www.creativemachineslab.com/'
     company_logo: cml
     location: New York, NY
-    date_start: 'Sep 2021'
+    date_start: '2021-09-01'
     date_end: ''
     description: |2-
         Responsibilities include:
@@ -36,13 +36,13 @@ experience:
         * Modelling
         * Deploying
         
-  - title: Professor of Semiconductor Physics
-    company: University X
-    company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
+  - title: Student Worker
+    company: USC Institute for Creative Technologies
+    company_url: 'https://ict.usc.edu/'
+    company_logo: ict
+    location: Los Angeles, CA
+    date_start: '2020-05-18'
+    date_end: '2021-08-28'
     description: Taught electronic engineering and researched semiconductor physics.
 
 design:
