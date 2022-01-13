@@ -29,7 +29,11 @@ experience:
     location: New York, NY
     date_start: '2021-09-01'
     date_end: ''
-    description: Directed by Prof. Hod Lipson and Ph.D. student Boyuan Chen, I created and implemented a supervised learning pipeline that learns the natural lips and facial movements through human speech visual-audio data. The pipeline utilizes a Wasserstein Generative Adversarial Network (WGAN) architecture conditioned on speech audio data and could generate face landmarks representing the facial movement implied by the audio. The model was trained on the VoxCeleb2 dataset, and I devised several data processing techniques including but not limited to facial landmarks extraction, visual-audio timing alignment, face alignment, and data distribution analysis. The pipeline will be integrated into the third generation of our face robot Eva to lip-synchronize its speech.
+    description: >-
+      Multimodal Learning and Lip Syncronization Research
+      * Created the learning pipeline that generates face landmarks representing facial movements based on human speed audio data
+      * Designed a sample efficient conditional WGAN deep learning architecture, trained on ~6000 videos using the VoxCeleb2 dataset
+      * Initiated data analysis and pre-processing such as face alignment and audio processing to reduce training time within 15 mins
         
   - title: Student Worker
     company: USC Institute for Creative Technologies
@@ -38,7 +42,27 @@ experience:
     location: Los Angeles, CA
     date_start: '2020-05-18'
     date_end: '2021-08-28'
-    description: I did Cognitive Architecture, Reinforcement Learning, and Route Optimization research with Prof. Paul Rosenbloom and Research Associate Volkan Ustun. Collaborating with a team of 6 professionals, I started by developing a web application as a visualization and debugging tool for the (Py)Sigma Cognitive Architecture. Then, I created and co-developed an MDP semantic graph environment leveraging OpenAI Gym and NetworkX. With the environment, I led Reinforcement Learning experiments with DQN and PPO for Search-and-Rescue (SAR) route planning. I also co-developed Mixed-Integer Programming (MIP) models for SAR route planning utilizing Google OR-Tools. For the last half-year, I took ownership of the project and developed a Sequential Decision-making Framework using the Transformer Architecture for multi-agent Search and Rescue (SAR) Route Optimization. I have a first-author paper accepted to AAAI 2021 FSS. 
+    description: >-
+      Reinforcement Learning and Route Optimization Research
+      * Created and co-developed a MDP semantic graph environment using the OpenAI Gym and NetworkX
+      * Led RL experiments using DQN and PPO for Search-and-Rescue (SAR) route optimization
+      * Co-developed Mixed-Integer Programming (MIP) models for SAR route planning with Google OR-Tools
+      * Led and Developed a Sequential Decision-making Framework by modifying the Transformer Architecture for multi-agent SAR
+      Cognitive Architecture Research
+      * Front-End development of visulizing and debuging tool for (Py)Sigma Cognitive Architecture
+      * Unit Testing, Literature Review
+
+  - title: Research Assistant
+    company: Institute of Computing Technology, Chinese Academy of Sciences
+    company_url: 'http://english.ict.cas.cn/'
+    company_logo: cas
+    location: Beijing, China
+    date_start: '2019-06-06'
+    date_end: '2019-08-20'
+    description: >-
+      Natural Language Processing Part-of-Speech Research
+      * Created and developed a Rule-Based Expert System to correct pos tagging errors
+      * Data-Mined POS correction rules based on Stanford CoreNLP and NLPIR-ICTCLAS
 
 design:
   columns: '2'
