@@ -65,6 +65,6 @@ email: "wangyz1999@hotmail.com"
 highlight_name: true
 ---
 
-Yunzhe Wang is a graduate student at the Columbia University. I'm currently doing robot learning research in the Creative Machine Lab in Columbia University directed by Prof. Hod Lipson. My research interests include Natural Language Processing, Human-Robot Interaction, and Artifitial Intelligence in general.
+Yunzhe Wang is a graduate student at the Columbia University. I'm currently doing robot learning research in the Creative Machines Lab in Columbia University directed by Prof. Hod Lipson. My research interests include Natural Language Processing, Human-Robot Interaction, and Artifitial Intelligence in general.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.

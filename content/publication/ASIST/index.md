@@ -42,7 +42,7 @@ featured: true
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: https://drive.google.com/file/d/1SvstZZz8axwi-rcZfaqiHPXcHvlJlGmH/view?usp=sharing
+# url_pdf: 
 url_code: https://github.com/wangyz1999/Attention-ASIST
 # url_dataset:
 # url_poster:
