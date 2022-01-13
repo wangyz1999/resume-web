@@ -15,25 +15,4 @@ zh:
  title: 蕴哲的个人网站
  params:
    description: Site description in Chinese...
- menu:
-  - name: 关于
-    url: '#about'
-    weight: 10
-  - name: 经历
-    url: '#experience'
-    weight: 20
-  - name: 论文
-    url: '#publications'
-    weight: 30
-  - name: 项目
-    url: '#projects'
-    weight: 40
-  - name: 文章
-    url: '#posts'
-    weight: 50
-  # - name: Talks
-  #   url: '#talks'
-  #   weight: 40
-  - name: 联系
-    url: '#contact'
-    weight: 60
+
