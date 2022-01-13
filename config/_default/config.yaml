@@ -5,7 +5,7 @@
 
 title: Yunzhe Wang # Website name
 baseurl: 'https://www.yunzhew.com/' # Website URL
-copyright: '@ 2022 Yunzhe Wang' # Footer text, e.g. '© {year} Me'
+copyright: '' # Footer text, e.g. '© {year} Me'
 
 ############################
 ## LANGUAGE
