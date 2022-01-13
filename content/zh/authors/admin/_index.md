@@ -67,4 +67,4 @@ highlight_name: true
 
 Yunzhe Wang is a graduate student at the Columbia University. I'm currently doing robot learning research in the Creative Machines Lab in Columbia University directed by Prof. Hod Lipson. My research interests include Natural Language Processing, Human-Robot Interaction, and Artifitial Intelligence in general.
 
-{{< icon name="download" pack="fas" >}} 查看我的 {{< staticref "uploads/resume.pdf" "newtab" >}}简历{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} 查看我的 {{< staticref "uploads/resume.pdf" "newtab" >}}简历{{< /staticref >}}
