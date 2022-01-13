@@ -20,7 +20,8 @@ bio: My research interests include distributed robotics, mobile computing and pr
 interests:
 - Artificial Intelligence
 - Natural Language Processing
-- Robotics
+- Robot-Human Interaction
+- Brain–Computer Interface
 
 # Education to show in About widget
 education:
@@ -31,7 +32,7 @@ education:
   - course: BS in Computational Neuroscience
     institution: University of Southern California
     year: 2021
-  - course: BA in Applied and Computational Mathematics
+  - course: BA in Applied Mathematics
     institution: University of Southern California
     year: 2021
 
