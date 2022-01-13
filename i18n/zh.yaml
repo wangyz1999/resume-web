@@ -57,7 +57,7 @@
 - id: btn_download
   translation: 下载
 - id: interests
-  translation: 兴趣爱好
+  translation: 科研方向
 - id: education
   translation: 教育经历
 - id: user_profile_latest

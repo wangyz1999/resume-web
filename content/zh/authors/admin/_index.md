@@ -6,11 +6,11 @@ title: Yunzhe Wang
 superuser: true
 
 # Role/position/tagline
-role: Graduate Student
+role: 在校研究生
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Columbia University
+- name: 哥伦比亚大学
   url: https://www.columbia.edu/
 
 # Short bio (displayed in user profile at end of posts)
@@ -18,22 +18,22 @@ bio: My research interests include distributed robotics, mobile computing and pr
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
-- Natural Language Processing
-- Robot-Human Interaction
-- Brain-Computer Interface
+- 人工智能
+- 自然语言处理
+- 人机交互
+- 脑机交互
 
 # Education to show in About widget
 education:
   courses:
-  - course: MS in Computer Science
-    institution: Columbia University
-    year: 2022 (in progress)
-  - course: BS in Computational Neuroscience
-    institution: University of Southern California
+  - course: 计算机科学理科硕士
+    institution: 哥伦比亚大学
+    year: 2022 (在读)
+  - course: 计算神经学理科学士
+    institution: 南加州大学
     year: 2021
-  - course: BA in Applied Mathematics
-    institution: University of Southern California
+  - course: 应用数学文科学士
+    institution: 南加州大学
     year: 2021
 
 # Social/Academic Networking
@@ -67,4 +67,4 @@ highlight_name: true
 
 Yunzhe Wang is a graduate student at the Columbia University. I'm currently doing robot learning research in the Creative Machines Lab in Columbia University directed by Prof. Hod Lipson. My research interests include Natural Language Processing, Human-Robot Interaction, and Artifitial Intelligence in general.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} 查看我的 {{< staticref "uploads/resume.pdf" "newtab" >}}简历{{< /staticref >}}.

@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 20
 
-title: Experience
+title: 工作经历
 subtitle:
 
 # Date format for experience
@@ -22,7 +22,7 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Student Researcher
+  - title: 研究生研究员
     company: Creative Machines Lab
     company_url: 'https://www.creativemachineslab.com/'
     company_logo: cml
@@ -36,7 +36,7 @@ experience:
       * Designed a sample efficient conditional WGAN deep learning architecture, trained on ~6000 videos using the VoxCeleb2 dataset
       * Initiated data analysis and pre-processing such as face alignment and audio processing to reduce training time within 15 mins
         
-  - title: Student Worker
+  - title: 本科生研究员
     company: USC Institute for Creative Technologies
     company_url: 'https://ict.usc.edu/'
     company_logo: ict
@@ -56,7 +56,7 @@ experience:
       * Front-End development of visulizing and debuging tool for (Py)Sigma Cognitive Architecture
       * Unit Testing, Literature Review
 
-  - title: Research Assistant
+  - title: 助理研究员
     company: Institute of Computing Technology, Chinese Academy of Sciences
     company_url: 'http://english.ict.cas.cn/'
     company_logo: cas
