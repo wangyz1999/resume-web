@@ -1,23 +1,24 @@
 ---
 title: Automonous Driving Agent
-summary: An example of using the in-built project page.
+summary: Simulate a car racing agent using reincement learning in Unity3D
 tags:
+- Simulation
 - Reinforcement Learning
 date: "2021-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://csci527.wixsite.com/agentsmart"
+external_link: ""
 
 image:
-  caption: Photo by rawpixel on Unsplash
+  caption: Our car agent exploring the experiment with distance sensors
   focal_point: Smart
 
 links:
-- icon: twitter
-  icon_pack: fab
-  name: Follow
-  url: https://twitter.com/georgecushen
-url_code: ""
+- icon: external-link
+  icon_pack: fas
+  name: Website
+  url: https://csci527.wixsite.com/agentsmart
+url_code: "https://github.com/hyitong/AgentSmarts"
 url_pdf: "https://0b5b5102-2b8f-4166-846b-a04b28f41e75.filesusr.com/ugd/45d7c8_5ebe55979a514ee1b63e5804947213a2.pdf"
 url_slides: ""
 url_video: "https://video.wixstatic.com/video/45d7c8_18f2ef61c34942b8ad44d66d46731388/720p/mp4/file.mp4"
@@ -27,15 +28,16 @@ url_video: "https://video.wixstatic.com/video/45d7c8_18f2ef61c34942b8ad44d66d467
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: example
+slides: ""
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+Machine learning has been a popular technique used in video games and real world in recent decades. Autonomous vehicle is a typical situation that use ml-based solutions. The aim of this project is to simulate an autonomous vehicle in racing games. In this game project, we explored various reinforcement learning algorithms provided by Unity Ml Agent such as PPO and SAC, and other self-coded reinforcement algorithms to train the car agent. In addition to reinforcement learning, other machine learning methods is examined such as imitation learning. To optimize the agent performance, various related factors is tested including observation methods, action states and reward structure. Potential problems were proposed based on the experiment observations and improvement methods were introduced to solve these problems. These improvement methods might be used to deal with similar problems in real life and have meaningful affects to self-driving research.
 
-Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.
+Our group aims to build intelligent agents that could be successfully employed in car-racing games. The basic environment setup is Unity3D with ml-agents package for reinforcement learning, and we will interface PyTorch with the Barracuda package for enabling GPU computation and testing our custom models such as DQN, PPO, and genetic algorithms.
 
-Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.
+There are tons of extra features that we could add to the game to make it more playable and diversified such that different strategies can be learned. For example, agents might drift to turn fast at corners or use nitro acceleration during straight tracks. We could also include additional collectibles such as scoring items or temporary speed boosts.
 
-Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.
+The simplest goal of the agent is to follow the road tightly at its maximum speed and hope that it will learn to drift. To achieve this, it is necessary to identify and avoid any obstacles that come in the way and competitor’s vehicle. For better scenarios, that agent might also learn to strategically block competitors or bump them to obstacles.
 
-Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.
+There are two types of input to our model: camera view and lidar depth field. The camera view gives an RGB picture of what the car sees and we could potentially use CNN for road, obstacle, collectibles, and competitor’s car detection. The lidar depth field gives direct distances from the center of the car to its surroundings. Given the inputs, the model is expected to predict the optimal steering angle and accelerator usage.
+
