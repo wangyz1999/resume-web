@@ -14,7 +14,7 @@ organizations:
   url: https://www.columbia.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Yunzhe Wang is a graduate student at the Columbia University. His research interests include Natural Language Processing, Human-Robot Interaction, and Artifitial Intelligence in general.
 
 # Interests to show in About widget
 interests:
