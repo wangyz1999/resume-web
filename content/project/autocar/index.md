@@ -1,13 +1,12 @@
 ---
-draft: true
-title: Example Project
+title: Automonous Driving Agent
 summary: An example of using the in-built project page.
 tags:
-- Deep Learning
-date: "2016-04-27T00:00:00Z"
+- Reinforcement Learning
+date: "2021-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: ""
+external_link: "https://csci527.wixsite.com/agentsmart"
 
 image:
   caption: Photo by rawpixel on Unsplash
@@ -19,9 +18,9 @@ links:
   name: Follow
   url: https://twitter.com/georgecushen
 url_code: ""
-url_pdf: ""
+url_pdf: "https://0b5b5102-2b8f-4166-846b-a04b28f41e75.filesusr.com/ugd/45d7c8_5ebe55979a514ee1b63e5804947213a2.pdf"
 url_slides: ""
-url_video: ""
+url_video: "https://video.wixstatic.com/video/45d7c8_18f2ef61c34942b8ad44d66d46731388/720p/mp4/file.mp4"
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
