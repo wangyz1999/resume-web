@@ -1,6 +1,6 @@
 ---
 title: Automonous Driving Agent
-summary: Simulate a car racing agent using reincement learning in Unity3D
+summary: Simulate a car racing agent using reinforcement learning in Unity3D
 tags:
 - Simulation
 - Reinforcement Learning
@@ -42,3 +42,4 @@ The simplest goal of the agent is to follow the road tightly at its maximum spee
 
 There are two types of input to our model: camera view and lidar depth field. The camera view gives an RGB picture of what the car sees and we could potentially use CNN for road, obstacle, collectibles, and competitor’s car detection. The lidar depth field gives direct distances from the center of the car to its surroundings. Given the inputs, the model is expected to predict the optimal steering angle and accelerator usage.
 
+{{< youtube PQ8m98DVrTo >}}

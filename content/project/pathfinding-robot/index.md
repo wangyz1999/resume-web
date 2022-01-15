@@ -42,3 +42,5 @@ Several interesting topics are covered through this project. First, the Roomba n
 ![RRT Path](rrt_path.png "Planned path found by RRT")
 
 After localization, a path needs to be planned for Roomba to reach the robot arm, where we use the Rapidly-exploring Random Tree (RRT) algorithm. Starting from the localized coordinate, a tree-like search path gradually expands outwards until reaches the maximum iteration. Then, a search path can be traversed from the point closest to the destination back to the starting point and return the path as a sequence of coordinates. For a smoother and shorter trajectory, we upgrade the algorithm to RRT* which rewires the tree when a shorter path is possible. The robot then follows the planned path using PID control and odometry until reaches the robot arm. After that, the robot arm with 6 degrees of freedom pick up the cup and place it onto the shelf through a series of hard-coded motor commands.
+
+{{< youtube B_XmwHeK-N4 >}}
