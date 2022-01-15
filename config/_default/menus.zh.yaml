@@ -16,9 +16,9 @@ main:
   - name: 项目
     url: '#projects'
     weight: 40
-  - name: 文章
-    url: '#posts'
-    weight: 50
+  # - name: 文章
+  #   url: '#posts'
+  #   weight: 50
   # - name: Talks
   #   url: '#talks'
   #   weight: 40
