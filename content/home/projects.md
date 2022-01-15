@@ -29,9 +29,13 @@ content:
     tag: '*'
   - name: Deep Learning
     tag: Deep Learning
-  - name: Other
-    tag: Demo
-
+  - name: Simulation
+    tag: Simulation
+  - name: Reinforcement Learning
+    tag: Reinforcement Learning
+  - name: NLP
+    tag: NLP
+    
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
   columns: '2'
