@@ -6,7 +6,7 @@ title: Yunzhe Wang
 superuser: true
 
 # Role/position/tagline
-role: Graduate Student
+role: Masters Computer Science Student
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -14,14 +14,17 @@ organizations:
   url: https://www.columbia.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: Yunzhe Wang is a graduate student at the Columbia University. His research interests include Natural Language Processing, Human-Robot Interaction, and Artifitial Intelligence in general.
+bio: Yunzhe Wang is a Masters student at the Columbia University studing computer science. His research interests include Robotics, Representation Learning, Natural Language Processing, Reinforcement Learning, and Aritfitial Intelligence in General.
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
+- Robotics
+- Representation Learning
 - Natural Language Processing
-- Robot-Human Interaction
-- Brain-Computer Interface
+- Computer Vision
+- Reinforcement Learning
+- Machine Learning
+- Artifitial Intelligence
 
 # Education to show in About widget
 education:
@@ -35,21 +38,30 @@ education:
   - course: BA in Applied Mathematics
     institution: University of Southern California
     year: 2021
+  - course: Minor in Computer Science
+    institution: University of Southern California
+    year: 2021
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
-- icon: envelope
-  icon_pack: fas
-  link: '/#contact'
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.com/citations?hl=en&user=Z_z6HywAAAAJ
+- icon: orcid
+  icon_pack: fab
+  link: https://orcid.org/0000-0003-3862-1163
 - icon: github
   icon_pack: fab
   link: https://github.com/wangyz1999
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/yunzhe-wang/
+- icon: envelope
+  icon_pack: fas
+  link: '/#contact'
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
@@ -65,6 +77,8 @@ email: "wangyz1999@hotmail.com"
 highlight_name: true
 ---
 
-Yunzhe Wang is a graduate student at Columbia University. I'm currently doing robot learning research in the Creative Machines Lab at Columbia University directed by Prof. Hod Lipson. My research interests include Natural Language Processing, Human-Robot Interaction, and Artificial Intelligence in general.
+Yunzhe Wang is a Masters student at Columbia University studying Computer Science. He is specilized in machine learning, and is currently conduction robot learning and multi-modal learning research in the Creative Machines Lab directed by Prof. Hod Lipson. 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+His research interests include Robotics, Representation Learning, Natural Language Processing, Computer Vision, Speech and Audio Processing, Machine Learning and Artificial Intelligence in general.
+
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}Curriculum Vitae{{< /staticref >}}.
