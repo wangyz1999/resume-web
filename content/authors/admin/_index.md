@@ -6,7 +6,7 @@ title: Yunzhe Wang
 superuser: true
 
 # Role/position/tagline
-role: Masters Computer Science Student
+role: Computer Science Masters Student
 
 # Organizations/Affiliations to show in About widget
 organizations:
