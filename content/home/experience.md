@@ -36,13 +36,15 @@ experience:
       * Applied self-supervised representation learning to disentangle speech audio signal into content representation and prosody (emotion) representation via *information bottleneck*.
       * Aiming to stylize talking emotion by controlling the prosody representation and synthesize photo-realistic videos of talking faces with authentic lips movement, facial expression, and head poses  
   
+  
       **Meta Self-Model: A Single Model That Can Control over 1024 Differently Configured Legged Robot in Simulation (Ongoing)**
 
       * Developed a single model that can predicts the future states (position, orientation, and joint angles) of 1024 differently configured legged robots each with 12 degree of freedom (4 legs each 3 joints), giving robots a sense of self-configuration and motion dynamics. 
       * Given forward baseline motion, I optimize the trajectories by applying *Beam Search* with added action noise, which improves robots’ performance in forward baseline motion and could perform unlearned tasks such as turning and backward movement with custom reward function.
       * Conducted a comprehensive literature review on Point Cloud Representation/Classification
       * Designed *Multi-Tasks Learning (MTL)* Objectives and *Auxiliary Tasks* to automatically balance training tasks difficulties
-      <br>
+  
+
       **Lip synchronization for Animatronic Robot Face**
 
       * Designed and created a pipeline that can generate facial landmarks (lips and holistic facial expression) synchronized with a given speech audio. The landmarks are then converted into robot face motor commands via an inverse model.
@@ -50,14 +52,13 @@ experience:
       * Pretrained an *Autoregressive Predictive Coding (APC)* model for speech audio embedding
       * Data Processing of the *VoxCeleb2 Dataset* (Landmark extraction, speech enhancing, landmark alignment, etc.)
 
+
       **Human-Robot Facial Simultaneous Expression**
 
       * Developed a predictive model that anticipates human facial expression changes thereby realizing simultaneous human facial expression mimicking (Simexpression).
       * Attempted various facial landmark alignment techniques (rotation and scaling, affine alignment, 3D alignment by shifting viewing frustum)
       * Extracted facial landmarks and applied *Head Pose Estimation* to remove lateral faces
-
-
-
+  
         
   - title: Research Assistant
     company: USC Institute for Creative Technologies
@@ -67,30 +68,32 @@ experience:
     date_start: '2020-05-18'
     date_end: '2021-08-28'
     description: |-2
-      Reinforcement Learning and Route Optimization Research:
+      **Route Optimization in Service of a Search and Rescue Artificial Social Intelligence Agent**
 
-      * Created and co-developed a MDP semantic graph environment using the OpenAI Gym and NetworkX
-      * Led RL experiments using DQN and PPO for Search-and-Rescue (SAR) route optimization
-      * Co-developed Mixed-Integer Programming (MIP) models for SAR route planning with Google OR-Tools
-      * Led and Developed a Sequential Decision-making Framework by modifying the Transformer Architecture for multi-agent SAR
-  
-      Cognitive Architecture Research:
+      * Investigated various *Graph Transformer* models for efficiently and approximately solving route optimization problems such as *Travelling Salesman Problem (TSP)* and *Capacitated Vehicle Routing Problem (CVRP)*.
+      * Designed a *Coorperative Multi-Agent Reinforcement Learning* system where agents with different roles and capabilities use the said *Graph Transformer* models as the oracle to get approximately optimal paths and coorperate to solve a Search-and-Rescue task in a Minecraft environment.
+      * Developed a *Markov Decision Process (MDP)* Semantic Graph environment to simulate search and rescue tasks and conduct deep reinforcement learning experiment with *Proximal Policy Optimization (PPO)* on the environment for route optimization
+      * Devised *Mixed-Integer Programming (MIP)* Solutions to Discounted Reward Travelling Salesman Problem for Search and Rescue Tasks
 
-      * Front-End development of visulizing and debuging tool for (Py)Sigma Cognitive Architecture
-      * Unit Testing, Literature Review
+
+      **PySigma Cognitive Architecture**
+
+      * Unit Testing and front-end development to PySigma Cognitive Architecture
+      * Literature review on message-passing inference algorithms for probabilistic graphical models.
+
 
   - title: Research Assistant
     company: Institute of Computing Technology, Chinese Academy of Sciences
     company_url: 'http://english.ict.cas.cn/'
     company_logo: cas
     location: Beijing, China
-    date_start: '2019-06-06'
+    date_start: '2019-05-06'
     date_end: '2019-08-20'
     description: |-2
-      Natural Language Processing Part-of-Speech Research:
+      **Chinese Part of Speech Tagging Error Correction**
 
-      * Created and developed a Rule-Based Expert System to correct pos tagging errors
-      * Data-Mined POS correction rules based on Stanford CoreNLP and NLPIR-ICTCLAS
+      * Developed a Rule-Based Expert System that corrects *Chinese Part of Speech (POS)* Tagging errors made by neural language models.
+      * Designed a pipeline that discovers new POS tagging rules based on similarity analysis between the POS tagging results from Stanford CoreNLP model and NLPIR-ICTCLAS POS Tagging System
 
 design:
   columns: '2'
