@@ -22,8 +22,8 @@ publishDate: 2021-12-29T18:30:30-08:00
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "In *Proceedings of the AAAI 2021 Fall Symposium Series: Computational Theory of Mind for Human-Machine Teams Workshop* (in press)"
-publication_short: "In *FSS-21* (in press)"
+publication: "In *Proceedings of the AAAI 2021 Fall Symposium Series: Computational Theory of Mind for Human-Machine Teams Workshop*"
+publication_short: "In *AAAI FSS 21*"
 
 abstract: "The success and safety of a Search and Rescue (SAR) team hinge on routing, making it an integral part of any SAR mission. Consequently, an Artificial Social Intelligence (ASI) agent aware of the “good” available routes in a mission is a very desirable asset for a SAR team. Such awareness is contingent on having superior knowledge of the environment and understanding the dynamics of the SAR team. An ASI agent equipped with this capability can utilize it while reasoning about the mission, similar to how a human may use real-time GPS route suggestions from a navigation application. This feature was historically infeasible for real-time ASI agents because the problems were computationally intractable. However, recent advances in Graph Neural Networks, transformers, and attention models make them candidates to be leveraged as neural heuristics in routing problems to quickly generate near-optimal routes. This paper describes a sequential decision framework based on neural heuristics to devise such routes for participants in the DARPA ASIST Minecraft SAR Task and reports our initial findings."
 
