@@ -18,10 +18,13 @@ bio: My research interests include distributed robotics, mobile computing and pr
 
 # Interests to show in About widget
 interests:
-- 人工智能
+- 机器人
+- 表征学习
 - 自然语言处理
-- 人机交互
-- 脑机交互
+- 计算机视觉
+- 强化学习
+- 机器学习
+- 人工智能
 
 # Education to show in About widget
 education:
@@ -35,21 +38,30 @@ education:
   - course: 应用数学文科学士
     institution: 南加州大学
     year: 2021
+  - course: 辅修计算机科学
+    institution: 南加州大学
+    year: 2021
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
-- icon: envelope
-  icon_pack: fas
-  link: '/#contact'
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.com/citations?hl=en&user=Z_z6HywAAAAJ
+- icon: orcid
+  icon_pack: fab
+  link: https://orcid.org/0000-0003-3862-1163
 - icon: github
   icon_pack: fab
   link: https://github.com/wangyz1999
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/yunzhe-wang/
+- icon: envelope
+  icon_pack: fas
+  link: '/#contact'
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
@@ -65,6 +77,8 @@ email: "wangyz1999@hotmail.com"
 highlight_name: true
 ---
 
-Yunzhe Wang is a graduate student at the Columbia University. I'm currently doing robot learning research in the Creative Machines Lab in Columbia University directed by Prof. Hod Lipson. My research interests include Natural Language Processing, Human-Robot Interaction, and Artifitial Intelligence in general.
+王蕴着是一名哥伦比亚大学的硕士学生。他主攻计算机科学的机器学习方向。在 Hod Lipson 教授的指导下，他目前在哥伦比亚大学的创意机械实验室从事智能机器人和多模态机器学习等领域的相关研究。
+
+他的科研兴趣包括机器人、表征学习、自然语言处理、计算机视觉、语音处理、机器学习和人工智能。
 
 {{< icon name="download" pack="fas" >}} 查看我的 {{< staticref "uploads/resume.pdf" "newtab" >}}简历{{< /staticref >}}

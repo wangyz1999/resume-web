@@ -12,7 +12,7 @@ en:
 zh:
  languageCode: zh-Hans
  contentDir: content/zh
- title: 蕴哲的个人网站
+ title: 蕴哲的个人空间
  params:
-   description: Site description in Chinese...
+   description: 这里是蕴哲的个人网站。蕴哲是一名哥伦比亚大学的在校研究生，主修计算机科学机器学习方向。该网站介绍了蕴哲的科研兴趣和科研经历。
 

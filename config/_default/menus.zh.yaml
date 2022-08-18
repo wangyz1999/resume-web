@@ -7,11 +7,11 @@ main:
   - name: 关于
     url: '#about'
     weight: 10
-  - name: 经历
-    url: '#experience'
-    weight: 20
   - name: 论文
     url: '#publications'
+    weight: 20
+  - name: 经历
+    url: '#experience'
     weight: 30
   - name: 项目
     url: '#projects'

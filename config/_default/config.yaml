@@ -3,9 +3,9 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: Yunzhe Wang # Website name
+title: Yunzhe's Space # Website name
 baseurl: 'https://www.yunzhew.com/' # Website URL
-copyright: '' # Footer text, e.g. '© {year} Me'
+copyright: '© {year} Yunzhe Wang' # Footer text, e.g. '© {year} Me'
 
 ############################
 ## LANGUAGE
