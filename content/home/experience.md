@@ -30,18 +30,33 @@ experience:
     date_start: '2021-09-01'
     date_end: ''
     description: |-2
-      Emotion Stylizable Talking Face Generation (Ongoing)
+      **Emotion Stylizable Talking Face Generation (Ongoing)**
 
       * Developed a generative model that synthesize facial landmark movements synching up with a given speech audio wav. The model can *zero-shot learning* to unknown speakers and languages.
       * Applied self-supervised representation learning to disentangle speech audio signal into content representation and prosody (emotion) representation via *information bottleneck*.
       * Aiming to stylize talking emotion by controlling the prosody representation and synthesize photo-realistic videos of talking faces with authentic lips movement, facial expression, and head poses  
-
-      Meta Self-Model: A Single Model That Can Control over 1024 Differently Configured Legged Robot in Simulation (Ongoing)
+  
+      **Meta Self-Model: A Single Model That Can Control over 1024 Differently Configured Legged Robot in Simulation (Ongoing)**
 
       * Developed a single model that can predicts the future states (position, orientation, and joint angles) of 1024 differently configured legged robots each with 12 degree of freedom (4 legs each 3 joints), giving robots a sense of self-configuration and motion dynamics. 
       * Given forward baseline motion, I optimize the trajectories by applying *Beam Search* with added action noise, which improves robots’ performance in forward baseline motion and could perform unlearned tasks such as turning and backward movement with custom reward function.
       * Conducted a comprehensive literature review on Point Cloud Representation/Classification
       * Designed *Multi-Tasks Learning (MTL)* Objectives and *Auxiliary Tasks* to automatically balance training tasks difficulties
+      <br>
+      **Lip synchronization for Animatronic Robot Face**
+
+      * Designed and created a pipeline that can generate facial landmarks (lips and holistic facial expression) synchronized with a given speech audio. The landmarks are then converted into robot face motor commands via an inverse model.
+      * The pipeline supports real-time inference and *zero-shot learn* to unknown languages and speakers
+      * Pretrained an *Autoregressive Predictive Coding (APC)* model for speech audio embedding
+      * Data Processing of the *VoxCeleb2 Dataset* (Landmark extraction, speech enhancing, landmark alignment, etc.)
+
+      **Human-Robot Facial Simultaneous Expression**
+
+      * Developed a predictive model that anticipates human facial expression changes thereby realizing simultaneous human facial expression mimicking (Simexpression).
+      * Attempted various facial landmark alignment techniques (rotation and scaling, affine alignment, 3D alignment by shifting viewing frustum)
+      * Extracted facial landmarks and applied *Head Pose Estimation* to remove lateral faces
+
+
 
         
   - title: Research Assistant
