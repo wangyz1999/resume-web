@@ -22,7 +22,7 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Student Researcher
+  - title: Masters Researcher
     company: Creative Machines Lab
     company_url: 'https://www.creativemachineslab.com/'
     company_logo: cml
@@ -30,13 +30,21 @@ experience:
     date_start: '2021-09-01'
     date_end: ''
     description: |-2
-      Multimodal Learning and Lip Syncronization Research:
+      Emotion Stylizable Talking Face Generation (Ongoing)
 
-      * Created the learning pipeline that generates face landmarks representing facial movements based on human speed audio data
-      * Designed a sample efficient conditional WGAN deep learning architecture, trained on ~6000 videos using the VoxCeleb2 dataset
-      * Initiated data analysis and pre-processing such as face alignment and audio processing to reduce training time within 15 mins
+      * Developed a generative model that synthesize facial landmark movements synching up with a given speech audio wav. The model can *zero-shot learning* to unknown speakers and languages.
+      * Applied self-supervised representation learning to disentangle speech audio signal into content representation and prosody (emotion) representation via *information bottleneck*.
+      * Aiming to stylize talking emotion by controlling the prosody representation and synthesize photo-realistic videos of talking faces with authentic lips movement, facial expression, and head poses  
+
+      Meta Self-Model: A Single Model That Can Control over 1024 Differently Configured Legged Robot in Simulation (Ongoing)
+
+      * Developed a single model that can predicts the future states (position, orientation, and joint angles) of 1024 differently configured legged robots each with 12 degree of freedom (4 legs each 3 joints), giving robots a sense of self-configuration and motion dynamics. 
+      * Given forward baseline motion, I optimize the trajectories by applying *Beam Search* with added action noise, which improves robots’ performance in forward baseline motion and could perform unlearned tasks such as turning and backward movement with custom reward function.
+      * Conducted a comprehensive literature review on Point Cloud Representation/Classification
+      * Designed *Multi-Tasks Learning (MTL)* Objectives and *Auxiliary Tasks* to automatically balance training tasks difficulties
+
         
-  - title: Student Worker
+  - title: Research Assistant
     company: USC Institute for Creative Technologies
     company_url: 'https://ict.usc.edu/'
     company_logo: ict
