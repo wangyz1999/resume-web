@@ -26,14 +26,14 @@ publication_types: ["2"]
 publication: "In Prepration at *Science Robotics*"
 publication_short: "In Prepration at *Science Robotics*"
 
-abstract: ""
+abstract: "Editing"
 
 # Summary. An optional shortened abstract.
 summary: ""
 
 tags: [Robotics, Self-Model]
 categories: []
-featured: true
+featured: false
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.

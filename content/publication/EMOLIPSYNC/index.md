@@ -25,14 +25,14 @@ publication_types: ["2"]
 publication: "In Prepration at *Science*"
 publication_short: "In Prepration at *Science*"
 
-abstract: ""
+abstract: "Editing"
 
 # Summary. An optional shortened abstract.
 summary: ""
 
 tags: [Robotics, Talking Face Generation, Representation Learning]
 categories: []
-featured: true
+featured: false
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
