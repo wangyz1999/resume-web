@@ -1,6 +1,6 @@
 ---
 title: Image Captioning with Conditioned LSTM Generators
-summary: Generate text descriptions to a given image using LSTM neural neural network
+summary: Generate text descriptions to a given image using LSTM neural network
 tags:
 - Computer Vision
 - Natural Language Processing
