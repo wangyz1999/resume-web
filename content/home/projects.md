@@ -27,10 +27,14 @@ content:
   filter_button:
   - name: All
     tag: '*'
-  - name: Deep Learning
-    tag: Deep Learning
+  - name: Academic
+    tag: Academic
   - name: Simulation
     tag: Simulation
+  - name: Robotics
+    tag: Robotics
+  - name: Computer Vision
+    tag: Computer Vision
   - name: Reinforcement Learning
     tag: Reinforcement Learning
   - name: Natural Language Processing

@@ -2,6 +2,7 @@
 title: ASIST Graph Environment
 summary: A Search-and-Rescue (SAR) graph environment for the DARPA ASIST program
 tags:
+- Academic
 - Reinforcement Learning
 - Simulation
 - Route Optimization

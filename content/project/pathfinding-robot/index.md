@@ -2,9 +2,9 @@
 title: Pathfinding Delivery Robot with Robotic Arm
 summary: Simulating a Roomba robot traverse through a maze for delivery
 tags:
+- Academic
 - Simulation
 - Robotics
-- Pathfinding
 date: "2020-04-30T00:00:00Z"
 lastmod: "2020-04-30T00:00:00Z"
 
