@@ -33,6 +33,8 @@ In this class project, I used the [Hindsight Experience Replay (HER)](https://ar
 
 Tasks like FetchPush and FetchSlide faces the sparse reward problem: in traditional reinforcement learning algorithms, the robot arm agent need to perform random actions to explore the action space with the hope that it will reach the target by mere chance. However, since the arm can randomly move to any direction while the target location is way too small, the probability of hitting goals at the initial exploration phase is too small to learn anything. 
 
+![DDPG Training Graph](ddpg.png "DDPG+HER model training graph on the FetchReach Environment")
+
 Nonetheless, with the experience replay technique, one may apply the HER sampling algorithms. Everytime the robot made a random move but failed to hit the target, we proposed an alternate goal: the robot did successfully hit the location that it randomly hit. Adding this “fake memory” and alternate goal into the experience buffer helps the reinforcement learning algorithm to converge significantly faster. 
 
 
