@@ -12,7 +12,7 @@ lastmod: "2021-12-04T00:00:00Z"
 external_link: ""
 
 image:
-  caption: Our car agent exploring the experiment with distance sensors
+  caption: Captioning image using neural network language model
   focal_point: Smart
 
 links:
@@ -63,25 +63,24 @@ To address the second issue and make the decoding text more interesting, I also 
 
 ![Decoding Image](baseball.jpg "Examples of Deocded Text from the baseball image is shown in the table below. Text are decoded using Beam Saerch with differernt n parameter and the probabilistic nucleus sampling approach with 5 different trials")
 
-| method | Decoded Text     | 
+| Method | Decoded Text     | 
 |------------------|------------------------------|
 | Beam Search n=1  | A baseball player swings his bat to catch the ball.                     |
 | Beam Search n=3  | A man playing baseball.                 |
 | Beam Search n=5  | The baseball player swings the bat.        |
 | Beam Search n=10 | The boy is playing baseball. |
 | Beam Search n=20 | The man is playing baseball. |
-|------------------|------------------------------|
-| Nuclus Sampling  | A football player runs with the ball in a race. |
-| Nuclus Sampling  | Three man, are in a race, and two teammates kicking the football. |
-| Nuclus Sampling  | The batsman playing football.        |
-| Nuclus Sampling  | A group of girls in blue play soccer game. |
-| Nuclus Sampling  | A lacross player runs after a ball. |
+| Nucleus Sampling  | A football player runs with the ball in a race. |
+| Nucleus Sampling  | Three man, are in a race, and two teammates kicking the football. |
+| Nucleus Sampling  | The batsman playing football.        |
+| Nucleus Sampling  | A group of girls in blue play soccer game. |
+| Nucleus Sampling  | A lacross player runs after a ball. |
 
 ### BLEU Score Evaluation
 
 Finally, the trained model is evaluated on our development set using a standard evaluation metric in language generation tasks: [BiLingual Evaluation Understudy (BLEU)](https://en.wikipedia.org/wiki/BLEU). The BLEU score is a number between zero and one that measures the similarity of the machine-translated text to a set of high-quality reference translations. A value of 0 means that the machine-translated output has no overlap with the reference translation (low quality) while a value of 1 means there is perfect overlap with the reference translations (high quality). The table below show the BLEU score evaluation of different decoding method on the test dataset.
 
-| method | BLEU Score |
+| Method | BLEU Score |
 |---------|-----------|
 | Greedy | 0.331 |
 | Beam Search n=3 | 0.347 |

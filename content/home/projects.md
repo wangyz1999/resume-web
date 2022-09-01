@@ -29,8 +29,6 @@ content:
     tag: '*'
   - name: Academic
     tag: Academic
-  - name: Simulation
-    tag: Simulation
   - name: Robotics
     tag: Robotics
   - name: Computer Vision
