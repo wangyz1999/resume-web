@@ -59,6 +59,9 @@ social:
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/yunzhe-wang/
+- icon: youtube
+  icon_pack: fab
+  link: https://www.youtube.com/channel/UCwZZE5ONCV7KojEYXxJxBlA
 - icon: envelope
   icon_pack: fas
   link: '/#contact'
