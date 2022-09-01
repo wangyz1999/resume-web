@@ -62,6 +62,9 @@ social:
 - icon: youtube
   icon_pack: fab
   link: https://www.youtube.com/channel/UCwZZE5ONCV7KojEYXxJxBlA
+- icon: bilibili
+  icon_pack: fab
+  link: https://space.bilibili.com/106928844
 - icon: envelope
   icon_pack: fas
   link: '/#contact'
