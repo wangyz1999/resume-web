@@ -10,7 +10,7 @@ lastmod: "2022-08-05T00:00:00Z"
 external_link: ""
 
 image:
-  caption: Fireworks exploration syncing up with music climax
+  caption: Minecraft firework explosion syncing up with music climax
   focal_point: Smart
 
 links:
