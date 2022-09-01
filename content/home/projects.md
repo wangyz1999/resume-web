@@ -33,8 +33,10 @@ content:
     tag: Simulation
   - name: Reinforcement Learning
     tag: Reinforcement Learning
-  - name: NLP
-    tag: NLP
+  - name: Natural Language Processing
+    tag: Natural Language Processing
+  - name: Programming Art
+    tag: Programming Art
     
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
