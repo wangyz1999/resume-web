@@ -2,7 +2,7 @@
 title: Legged Robot Self-Model
 summary: Controlling a four-legged robot with a sense of self motion dynamics performing locomotive tasks
 tags:
-- Academics
+- Academic
 - Robotics
 date: "2022-07-13T00:00:00Z"
 lastmod: "2022-07-13T00:00:00Z"
