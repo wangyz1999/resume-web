@@ -49,9 +49,9 @@ In the MAPF example above with two agents: agent 1 has to navigate from its curr
 
 ![CBS Algo](cbs.jpg "High-level search of the CBS algorithm")
 
-### Immplementation
+### Implementation
 
-For this project, I first immplemented a time-space A* search that searches in x-y-t space and returns a shortest path that satisfies a given set of constraints for a single agent. Then, I implemented a prioritized MAPF solver based on my time-space A* solver. The prioritized MAPF solver finds paths for all agents, one after the other, that do not collide with the environment or the already planned paths of the other agents. To ensure that the path of an agent does not collide with the already planned paths of the other agents, I transformed the already planned paths into constraints and use them as the input of my time-space A* solver.
+For this project, I first implemented a time-space A* search that searches in x-y-t space and returns a shortest path that satisfies a given set of constraints for a single agent. Then, I implemented a prioritized MAPF solver based on my time-space A* solver. The prioritized MAPF solver finds paths for all agents, one after the other, that do not collide with the environment or the already planned paths of the other agents. To ensure that the path of an agent does not collide with the already planned paths of the other agents, I transformed the already planned paths into constraints and use them as the input of my time-space A* solver.
 
 Finally, I implemented the highlevel search of CBS by reusing the previous single agent A* search as the low-level search of CBS by following the pseudocode. I visulized the searched path and this is the solution I found to the example problem shown in the image at the top of this web page.
 
