@@ -1,5 +1,6 @@
 ---
 title: Bad Apple!! Made with Nvidia GauGAN
+subtitle: Recreating the Bad Apple!! video using clouds and grass synthesized by Nvidia GauGAN model
 summary: Recreating the Bad Apple!! video using clouds and grass synthesized by Nvidia GauGAN model
 tags:
 - Computer Vision

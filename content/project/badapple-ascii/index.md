@@ -1,5 +1,6 @@
 ---
 title: Bad Apple!! Played on Structure-based ASCII Art
+subtitle: Recreating the Bad Apple!! video using Structure-based ASCII Art by classifing image patches to symbols
 summary: Recreating the Bad Apple!! video using Structure-based ASCII Art by classifing image patches to symbols
 tags:
 - Computer Vision

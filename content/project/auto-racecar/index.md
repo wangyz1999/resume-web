@@ -1,5 +1,6 @@
 ---
 title: Automonous Driving Agent
+subtitle: Simulate a car racing agent using reinforcement learning in Unity3D
 summary: Simulate a car racing agent using reinforcement learning in Unity3D
 tags:
 - Academic

@@ -1,5 +1,6 @@
 ---
 title: Coffin Dance (Astronomia) ASCII Art
+subtitle: Creating tone-based ASCII Art Video from the popular meme "Coffin Dance"
 summary: Creating tone-based ASCII Art Video from the popular meme "Coffin Dance"
 tags:
 - Programming Art
