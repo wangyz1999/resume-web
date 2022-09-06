@@ -55,5 +55,5 @@ For this project, I first implemented a time-space A* search that searches in x-
 
 Finally, I implemented the highlevel search of CBS by reusing the previous single agent A* search as the low-level search of CBS by following the pseudocode. I visulized the searched path and this is the solution I found to the example problem shown in the image at the top of this web page.
 
-![Solution to the example problem](solution.gif "A solution to the example problem shown at the beginning. Path searched using the CBS algorithm, which gives a complete and optimal result")
+![Solution to the example problem](solution.gif "A solution to the example problem shown at the beginning. Path searched using the CBS algorithm, which gives a complete and optimal result.")
 

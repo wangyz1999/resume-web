@@ -1,6 +1,6 @@
 ---
 title: MNIST Handwritten Digits Recognition
-summary: My first ever neural network build from scratch using C++
+summary: My first ever neural network build from scratch in C++
 tags:
 - Academic
 - Computer Vision

@@ -1,6 +1,6 @@
 ---
 title: Robot Arm Control with Hindsight Experience Replay
-summary: Solving OpenAI Gym Robotic Environment using HER and DDPG Algorithms
+summary: Solving OpenAI Gym robotics environment using HER and DDPG algorithms
 tags:
 - Academic
 - Robotics
