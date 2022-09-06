@@ -1,5 +1,6 @@
 ---
 title: "Processing Creative Coding: China Cities Connection Visualization and Meditation Bubble Animation"
+subtitle: Creating China cities connection animation and meditation bubble animation using Processing
 summary: Creating China cities connection animation and meditation bubble animation using Processing
 tags:
 - Programming Art

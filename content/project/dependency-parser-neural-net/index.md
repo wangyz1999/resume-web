@@ -1,5 +1,6 @@
 ---
 title: A Neural Network Dependency Parser
+subtitle: A transition-based dependency parser using neural network
 summary: A transition-based dependency parser using neural network
 tags:
 - Academic

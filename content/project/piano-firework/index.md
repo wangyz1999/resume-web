@@ -1,5 +1,6 @@
 ---
 title: Piano Music Visualization using Minecraft Firework
+subtitle: Visulizing piano music by sychronizing notes with Minecraft firework
 summary: Visulizing piano music by sychronizing notes with Minecraft firework
 tags:
 - Programming Art

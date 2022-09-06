@@ -1,5 +1,6 @@
 ---
 title: Talking Face Generation
+subtitle: Synthesizing facial movement based on speech audio to control robot face
 summary: Synthesizing facial movement based on speech audio to control robot face
 tags:
 - Academic

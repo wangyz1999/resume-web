@@ -1,5 +1,6 @@
 ---
 title: Hunchback Detection
+subtitle: A sitting posture classification model that helps you maintaining good posture
 summary: A sitting posture classification model that helps you maintaining good posture
 tags:
 - Academic

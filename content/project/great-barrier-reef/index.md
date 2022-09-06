@@ -1,5 +1,6 @@
 ---
 title: Help Protect the Great Barrier Reef
+subtitle: Detect crown-of-thorns starfish in underwater image data
 summary: Detect crown-of-thorns starfish in underwater image data
 tags:
 - Computer Vision

@@ -1,5 +1,6 @@
 ---
 title: Multi-Agent Path Finding
+subtitle: Solving the Multi-Agent Path Finding (MAPF) problem using Prioritized Planning and Conflict-Based Search
 summary: Solving the Multi-Agent Path Finding (MAPF) problem using Prioritized Planning and Conflict-Based Search
 tags:
 - Academic
