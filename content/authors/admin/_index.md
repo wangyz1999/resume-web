@@ -79,9 +79,8 @@ email: "wangyz1999@hotmail.com"
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
+Yunzhe Wang is a Masters's student at Columbia University studying Computer Science. He specializes in machine learning and is currently conducting robot learning and multi-modal learning research in the [Creative Machines Lab](https://www.creativemachineslab.com/) directed by Prof. [Hod Lipson](https://www.hodlipson.com/).
 
-Yunzhe Wang is a Masters student at Columbia University studying Computer Science. He is specilized in machine learning, and is currently conducting robot learning and multi-modal learning research in the [Creative Machines Lab](https://www.creativemachineslab.com/) directed by Prof. [Hod Lipson](https://www.hodlipson.com/). 
-
-His research interests include Robotics, Representation Learning, Natural Language Processing, Computer Vision, Speech and Audio Processing, Machine Learning and Artificial Intelligence in general.
+His research interests include Robotics, Representation Learning, Natural Language Processing, Computer Vision, Speech and Audio Processing, Machine Learning, and Artificial Intelligence in general.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}Curriculum Vitae{{< /staticref >}}.
