@@ -14,15 +14,14 @@ organizations:
   url: https://www.columbia.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: Yunzhe Wang is a Masters student at the Columbia University studing computer science. His research interests include Robotics, Representation Learning, Natural Language Processing, Reinforcement Learning, and Aritfitial Intelligence in General.
+bio: Yunzhe Wang is a Computer Science Masters student at the Columbia University. His research interests include Robotics, Computer Vision, Reinforcement Learning, Representation Learning, and Aritfitial Intelligence in General.
 
 # Interests to show in About widget
 interests:
 - Robotics
-- Representation Learning
-- Natural Language Processing
 - Computer Vision
 - Reinforcement Learning
+- Representation Learning
 - Machine Learning
 - Artifitial Intelligence
 
@@ -79,8 +78,8 @@ email: "wangyz1999@hotmail.com"
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-Yunzhe Wang is a Masters's student at Columbia University studying Computer Science. He specializes in machine learning and is currently conducting robot learning and multi-modal learning research in the [Creative Machines Lab](https://www.creativemachineslab.com/) directed by Prof. [Hod Lipson](https://www.hodlipson.com/).
+Yunzhe Wang is a Computer Science Master's student at Columbia University, graduating in May 2023. He specializes in machine learning and is currently conducting robot learning and multi-modal learning research in the [Creative Machines Lab](https://www.creativemachineslab.com/) directed by Prof. [Hod Lipson](https://www.hodlipson.com/).
 
-His research interests include Robotics, Representation Learning, Natural Language Processing, Computer Vision, Speech and Audio Processing, Machine Learning, and Artificial Intelligence in general.
+His research interests include Robotics, Computer Vision, Representation Learning and Artificial Intelligence in general.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}Curriculum Vitae{{< /staticref >}}.
