@@ -1,4 +1,5 @@
 ---
+draft: true
 title: Pathfinding Delivery Robot with Robotic Arm
 subtitle: Simulating a Roomba robot traverse through a maze for delivery
 summary: Simulating a Roomba robot traverse through a maze for delivery
