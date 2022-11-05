@@ -23,10 +23,10 @@ publishDate: 2022-08-10T00:00:00-08:00
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: "In Prepration at *Science Robotics*"
-publication_short: "In Prepration at *Science Robotics*"
+publication: "Submitted to *Science Robotics*"
+publication_short: "Submitted to *Science Robotics*"
 
-abstract: "Editing"
+abstract: "Work in progress"
 
 # Summary. An optional shortened abstract.
 summary: ""

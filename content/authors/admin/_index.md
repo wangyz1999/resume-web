@@ -14,14 +14,14 @@ organizations:
   url: https://www.columbia.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: Yunzhe Wang is a Computer Science Masters student at the Columbia University. His research interests include Robotics, Computer Vision, Reinforcement Learning, Representation Learning, and Aritfitial Intelligence in General.
+bio: Yunzhe Wang is a Computer Science Masters student at the Columbia University. His research interests include Robotics Learning, Representation Learning, Computer Vision, Reinforcement Learning, Machine Learning, and Aritfitial Intelligence in General.
 
 # Interests to show in About widget
 interests:
-- Robotics
+- Robot Learning
+- Representation Learning
 - Computer Vision
 - Reinforcement Learning
-- Representation Learning
 - Machine Learning
 - Artifitial Intelligence
 
@@ -78,8 +78,8 @@ email: "wangyz1999@hotmail.com"
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-Yunzhe Wang is a Computer Science Master's student at Columbia University, graduating in May 2023. He specializes in machine learning and is currently conducting robot learning and multi-modal learning research in the [Creative Machines Lab](https://www.creativemachineslab.com/) directed by Prof. [Hod Lipson](https://www.hodlipson.com/).
+Yunzhe Wang is a Computer Science Master's student at Columbia University, graduating in May 2023. He specializes in Machine Larning and is currently conducting Multi-modal Robot Learning and Representation Learning research in the [Creative Machines Lab](https://www.creativemachineslab.com/) directed by Professor [Hod Lipson](https://www.hodlipson.com/).
 
-His research interests include Robotics, Computer Vision, Representation Learning and Artificial Intelligence in general.
+He is currently looking for a Ph.D. program with a concentration on Robotics and Computer Vision. 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}Curriculum Vitae{{< /staticref >}}.

@@ -22,10 +22,10 @@ publishDate: 2022-08-15T00:00:00-08:00
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: "In Prepration at *Nature*"
-publication_short: "In Prepration at *Nature*"
+publication: "Submitted to *Nature*"
+publication_short: "Submitted to *Nature*"
 
-abstract: "Editing"
+abstract: "Work in Progress"
 
 # Summary. An optional shortened abstract.
 summary: ""
