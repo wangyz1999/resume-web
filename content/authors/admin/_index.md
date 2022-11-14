@@ -80,6 +80,6 @@ highlight_name: true
 ---
 Hi there! I'm a Computer Science Master's student at Columbia University, graduating in May 2023. I specializes in Machine Larning and is currently conducting Multi-modal Robot Learning and Representation Learning research in the [Creative Machines Lab](https://www.creativemachineslab.com/) directed by Professor [Hod Lipson](https://www.hodlipson.com/).
 
-I'm currently looking for a Ph.D. program with a concentration on Robotics, Representation Learning, and Computer Vision. I'm highly interested in understanding the nature of intelligence and how to embody it into physical and artificial agents.
+I'm currently looking for a Ph.D. program with a concentration on Robotics, Representation Learning, and Computer Vision. I'm highly interested in understanding the nature of intelligence and how to embody such process into physical and artificial agents.
 
 {{< icon name="download" pack="fas" >}} Here's my {{< staticref "uploads/resume.pdf" "newtab" >}}Curriculum Vitae{{< /staticref >}}.
