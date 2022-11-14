@@ -32,11 +32,11 @@ experience:
     description: |-2  
       **Representation Learning of Robot Dynamics for Morphology Prediction**
 
-      * Developed a multiclass-multioutput classification model that predicts the morphology of a 12-DOF quadruped robots given its dynamics – multinomial timeseries of robot position, orientation, and joint angles.
+      * Developed a multiclass-multioutput classification model that predicts the morphology of a 12-DoF quadruped robot given its dynamics – multinomial time series of robot position, orientation, and joint angles. The robot's structure can be configured in countless ways.
 
       **Lip synchronization for Animatronic Robot Face**
 
-      * Developed a regression model that generates lip-synced facial landmark movements given human speech audio alone. 
+      * Developed a regression model, Audio2Landmark, that accomplishes face robot natural lip-synchronization. The model learned mapping from audio signals to facial keypoints movement by watching human speech videos. 
         
   - title: Research Assistant
     company: USC Institute for Creative Technologies
@@ -48,11 +48,11 @@ experience:
     description: |-2
       **Route Optimization in Service of a Search and Rescue Artificial Social Intelligence Agent**
 
-      * Developped a sequential decision making framework that efficiently and approximately solves multi-agent route optimization problems such as *Capacitated Vehicle Routing Problem (CVRP)* utilizing *Graph Transformer* model and Reinforcement Learning.
+      * Developed a sequential decision making framework that efficiently and approximately solves multi-agent route optimization problems such as *Capacitated Vehicle Routing Problem (CVRP)* utilizing *Graph Transformer* model and Reinforcement Learning.
 
       **PySigma Cognitive Architecture**
 
-      * Unit Testing and front-end development to PySigma Cognitive Architecture
+      * Unit Testing and front-end development to PySigma Cognitive Architecture.
 
   - title: Research Assistant
     company: Institute of Computing Technology, Chinese Academy of Sciences
@@ -64,7 +64,7 @@ experience:
     description: |-2
       **Chinese Part of Speech Tagging Error Correction**
 
-      * Developed a Rule-Based Expert System that corrects Chinese *Part of Speech (POS)* Tagging errors made by neural language models.
+      * Developed a Rule-Based Expert System that corrects Chinese *Part of Speech (POS)* Tagging errors made by SOTA language models.
 
 design:
   columns: '2'
