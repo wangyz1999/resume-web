@@ -30,13 +30,13 @@ experience:
     date_start: '2021-09-01'
     date_end: ''
     description: |-2  
-      **Representation Learning of Robot Dynamics for Morphology Prediction**
+      **Robot Dynamics Representation Learning for Morphology Prediction**
 
-      * Developed a multiclass-multioutput classification model that predicts the morphology of a 12-DoF quadruped robot given its dynamics – multinomial time series of robot position, orientation, and joint angles. The robot's structure can be configured in countless ways.
+      * Developed a multiclass-multioutput classification model that predicts the morphology of a 12-DoF quadruped robot given its dynamics, which is represented as multinomial time series of robot position, orientation, and joint angles. The robot's structure can be configured in countless ways.
 
-      **Lip synchronization for Animatronic Robot Face**
+      **Talking Face Generation for Lip-Synchronizing Animatronic Robot Face**
 
-      * Developed a regression model, Audio2Landmark, that accomplishes face robot natural lip-synchronization. The model learned mapping from audio signals to facial keypoints movement by watching human speech videos. 
+      * Developed a deep regression model, Audio2Landmark, that generates lip-synced facial landmark movements given speech audio alone. Applied the model to lip-sync a face robot.
         
   - title: Research Assistant
     company: USC Institute for Creative Technologies
@@ -46,13 +46,13 @@ experience:
     date_start: '2020-03-18'
     date_end: '2021-08-28'
     description: |-2
-      **Route Optimization in Service of a Search and Rescue Artificial Social Intelligence Agent**
+      **Route Optimization on Graphs Using Reinforcement Learning**
 
       * Developed a sequential decision making framework that efficiently and approximately solves multi-agent route optimization problems such as *Capacitated Vehicle Routing Problem (CVRP)* utilizing *Graph Transformer* model and Reinforcement Learning.
 
       **PySigma Cognitive Architecture**
 
-      * Unit Testing and front-end development to PySigma Cognitive Architecture.
+      * Unit Testing and front-end development to the (Py)Sigma Cognitive Architecture.
 
   - title: Research Assistant
     company: Institute of Computing Technology, Chinese Academy of Sciences
