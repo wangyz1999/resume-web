@@ -14,7 +14,7 @@ organizations:
   url: https://www.columbia.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: Yunzhe Wang is a Computer Science Masters student at the Columbia University. His interests lies in the area of Robotics Learning, Representation Learning, and Computer Vision. He wants to understand the nature of intelligence and its embodiment in artificial agents.
+bio: Yunzhe Wang is a Computer Science Masters student at the Columbia University. His interests lies in the area of Robotics Learning, Representation Learning, and Computer Vision. He wants to understand the nature of intelligence and its embodiment in artificial agents. He has a long-term goal of contributing to the birth of strong AI.
 
 # Interests to show in About widget
 interests:
@@ -82,6 +82,6 @@ Hi there! I'm a Computer Science Master's student at Columbia University, gradua
 
 In my three research projects, I developed deep-learning models to suggest routes for human search-and-rescue teams, taught a face robot to speak with human-like facial expressions, and made a legged robot “aware” of its appearance through motion.
 
-I'm currently applying for a Ph.D. program concentrating on Robotics, Representation Learning, and Computer Vision. I’m highly interested in understanding the nature of intelligence and its embodiment in artificial agents.
+I'm currently applying for a Ph.D. program concentrating on Robotics, Representation Learning, and Computer Vision. I’m highly interested in understanding the nature of intelligence and its embodiment in artificial agents, with a long-term goal of contributing to the birth of strong AI.
 
 {{< icon name="download" pack="fas" >}} Here's my {{< staticref "uploads/resume.pdf" "newtab" >}}Curriculum Vitae{{< /staticref >}}.
