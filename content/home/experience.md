@@ -54,17 +54,17 @@ experience:
 
       * Unit Testing and front-end development to the (Py)Sigma Cognitive Architecture.
 
-  - title: Research Assistant
-    company: Institute of Computing Technology, Chinese Academy of Sciences
-    company_url: 'http://english.ict.cas.cn/'
-    company_logo: cas
-    location: Beijing, China
-    date_start: '2019-05-06'
-    date_end: '2019-08-20'
-    description: |-2
-      **Chinese Part of Speech Tagging Error Correction**
+  # - title: Research Assistant
+  #   company: Institute of Computing Technology, Chinese Academy of Sciences
+  #   company_url: 'http://english.ict.cas.cn/'
+  #   company_logo: cas
+  #   location: Beijing, China
+  #   date_start: '2019-05-06'
+  #   date_end: '2019-08-20'
+  #   description: |-2
+  #     **Chinese Part of Speech Tagging Error Correction**
 
-      * Developed a Rule-Based Expert System that corrects Chinese *Part of Speech (POS)* Tagging errors made by SOTA language models.
+  #     * Developed a Rule-Based Expert System that corrects Chinese *Part of Speech (POS)* Tagging errors made by SOTA language models.
 
 design:
   columns: '2'

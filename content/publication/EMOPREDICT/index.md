@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Human-Robot Facial Simexpression"
+title: "Human-Robot Facial Co-expression"
 authors:
   - Yuhang Hu
   - Boyuan Chen
@@ -26,12 +26,12 @@ publication_types: ["3"]
 publication: "Submitted to *Science Robotics*"
 publication_short: "Submitted to *Science Robotics*"
 
-abstract: "Work in progress"
+abstract: "Work under review"
 
 # Summary. An optional shortened abstract.
 summary: ""
 
-tags: [Robotics, Self-Model]
+tags: [Robotics, Self-Modeling]
 categories: []
 featured: false
 

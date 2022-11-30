@@ -25,7 +25,7 @@ publication_types: ["3"]
 publication: "Submitted to *Nature*"
 publication_short: "Submitted to *Nature*"
 
-abstract: "Work in Progress"
+abstract: "Work under review"
 
 # Summary. An optional shortened abstract.
 summary: ""
