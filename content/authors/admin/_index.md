@@ -22,6 +22,8 @@ interests:
 - Representation Learning
 - Computer Vision
 - Reinforcement Learning
+- Natural Language Processing
+- Fairness (AI)
 - Machine Learning
 - Artifitial Intelligence
 
