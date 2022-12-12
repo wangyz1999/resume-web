@@ -14,16 +14,17 @@ organizations:
   url: https://www.columbia.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: Yunzhe Wang is a Computer Science Masters student at the Columbia University. His interests lies in the area of Robotics Learning, Computer Vision, and Representation Learning. He wants to understand the nature of intelligence and has a long-term ambition of creating General AI.
+bio: Yunzhe Wang is a Computer Science Masters student at the Columbia University. His interests lies in the area of Robot Learning, Multimodal Perception (especially vision and sound), Representation Learning, and Human-AI Interaction. He is highly interested in understanding the nature of intelligence, with a long-term ambition of creating Human-Centered General AI.
 
 # Interests to show in About widget
 interests:
+- Multimodal Perception
 - Robot Learning
 - Representation Learning
 - Computer Vision
-- Reinforcement Learning
+- Human-AI Interaction/Alignment
 - Natural Language Processing
-- Fairness (AI)
+- Reinforcement Learning
 - Machine Learning
 - Artifitial Intelligence
 
@@ -80,10 +81,10 @@ email: "wangyz1999@hotmail.com"
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-Hi there! I'm a Computer Science Master's student at Columbia University, graduating in May 2023. I specialize in Machine Learning and am currently conducting Multi-modal Robot Learning and Representation Learning research in the [Creative Machines Lab](https://www.creativemachineslab.com/), directed by Professor [Hod Lipson](https://www.hodlipson.com/).
+Hi there! I'm a Computer Science Master's student at Columbia University, graduating in May 2023. I specialize in Machine Learning and am currently conducting Robot Learning and Representation Learning research in the [Creative Machines Lab](https://www.creativemachineslab.com/), where I am fortunate to be supervised by Professor [Hod Lipson](https://www.hodlipson.com/).
 
-In my three research projects, I developed deep-learning models to suggest routes for human search-and-rescue teams, taught a face robot to speak with human-like facial expressions, and made a legged robot “aware” of its appearance through motion.
+In my three research projects, I developed deep-learning models to suggest routes for human search-and-rescue teams, taught a face robot to speak with human-like facial expressions, and made a legged robot "aware" of its morphology through motion.
 
-I'm currently applying for a Ph.D. program concentrating on Robot Learning, Computer Vision, and Representation Learning. I’m highly interested in understanding the nature of intelligence, with a long-term ambition of creating General AI.
+I'm currently applying for a Ph.D. program concentrating on Robot Learning, Multimodal Perception (especially vision and sound), Representation Learning, and Human-AI Interaction. I'm highly interested in understanding the nature of intelligence, with a long-term ambition of creating Human-Centered General AI. I wish my work and knowledge can make the world a better place.
 
 {{< icon name="download" pack="fas" >}} Here's my {{< staticref "uploads/resume.pdf" "newtab" >}}Curriculum Vitae{{< /staticref >}}.
