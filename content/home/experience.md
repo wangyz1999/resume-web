@@ -30,7 +30,7 @@ experience:
     date_start: '2021-09-01'
     date_end: ''
     description: |-2  
-      **Robot Dynamics Representation Learning for Morphology Prediction**
+      **Learning Robot Morphology Representation from Kinematic Data**
 
       * Developed a multiclass-multioutput classification model that predicts the morphology of a 12-DoF quadruped robot given its dynamics, which is represented as multinomial time series of robot position, orientation, and joint angles. The robot's structure can be configured in countless ways.
 

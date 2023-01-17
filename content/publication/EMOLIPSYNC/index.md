@@ -22,10 +22,10 @@ publishDate: 2022-08-15T00:00:00-08:00
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Submitted to *Nature*"
-publication_short: "Submitted to *Nature*"
+publication: "In Preparation at *Science Robotic*"
+publication_short: "In Preparation at *Science Robotic*"
 
-abstract: "Work under review"
+abstract: "In Preparation"
 
 # Summary. An optional shortened abstract.
 summary: ""
