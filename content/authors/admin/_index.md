@@ -83,8 +83,6 @@ highlight_name: true
 ---
 Hi there! I'm a Computer Science Master's student at Columbia University, graduating in May 2023. I specialize in Machine Learning and am currently conducting Robot Learning and Representation Learning research in the [Creative Machines Lab](https://www.creativemachineslab.com/), where I am fortunate to be supervised by Professor [Hod Lipson](https://www.hodlipson.com/).
 
-In my three research projects, I developed deep-learning models to suggest routes for human search-and-rescue teams, taught a face robot to speak with human-like facial expressions, and made a legged robot "aware" of its morphology through motion.
-
-I'm currently applying for a Ph.D. program concentrating on Robot Learning, Multimodal Perception (especially vision and sound), Representation Learning, and Human-AI Interaction. I'm highly interested in understanding the nature of intelligence, with a long-term ambition of creating Human-Centered General AI. I wish my work and knowledge can make the world a better place.
+In my three research projects, I developed deep-learning models to suggest routes for human search-and-rescue teams, taught a face robot to speak with human-like facial expressions, and identified a legged robot's morphology through its kinematic data.
 
 {{< icon name="download" pack="fas" >}} Here's my {{< staticref "uploads/resume.pdf" "newtab" >}}Curriculum Vitae{{< /staticref >}}.
